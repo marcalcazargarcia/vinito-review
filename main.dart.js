@@ -54286,7 +54286,7 @@ hJ(a,b){var s,r,q=null,p=b.b8($.baA(),t.cb),o=b.b8($.b4O(),t.jm)
 b.aT($.yp(),t.fq)
 s=A.bj8(B.aV)
 r=A.bj8(B.b_)
-return new A.IA($.baz(),q,q,q,p,new A.ali(),"Vinito Review",s,r,o,B.Ir,B.a72,B.a55,!1,B.Y0,q)}}
+return new A.IA($.baz(),q,q,q,p,new A.ali(),"Vinoteta",s,r,o,B.Ir,B.a72,B.a55,!1,B.Y0,q)}}
 A.ali.prototype={
 $2(a,b){var s=A.N(a)
 return A.jK(A.ef(new A.d7(B.hg,b,null),null,null),s.fx,!0)},
@@ -55258,7 +55258,7 @@ A.aYX.prototype={
 $0(){return this.a.Q=!1},
 $S:0}
 A.aZ1.prototype={
-$1(a){var s=null,r=this.b,q=A.aK("Vinito Review",s,s,s,s,A.mD(r.d,44,B.bl),s,s),p=r.e,o=A.aK("El nostre diari de vins, nom\xe9s nosaltres dos",s,s,s,s,A.bI(s,s,p,s,s,s,s,s,s,s,s,16,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),n=this.a,m=A.Cf(!1,B.a64,!1,s,!0,B.D,s,A.T0(),n.w,s,s,s,s,s,2,B.a2T,B.ad,!0,s,!1,s,!1,s,B.cQ,s,s,s,s,B.wY,s,s,s,1,s,s,!1,"\u2022",s,s,s,new A.aYZ(n),s,!1,s,s,!1,s,!0,s,B.ef,s,s,s,s,s,s,s,s,s,s,s,s,!0,B.aB,s,B.is,s,B.it,s,s),l=n.z,k=l?"Mostra la contrasenya":"Amaga la contrasenya"
+$1(a){var s=null,r=this.b,q=A.aK("Vinoteta",s,s,s,s,A.mD(r.d,44,B.bl),s,s),p=r.e,o=A.aK("El nostre diari de vins, nom\xe9s nosaltres dos",s,s,s,s,A.bI(s,s,p,s,s,s,s,s,s,s,s,16,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),n=this.a,m=A.Cf(!1,B.a64,!1,s,!0,B.D,s,A.T0(),n.w,s,s,s,s,s,2,B.a2T,B.ad,!0,s,!1,s,!1,s,B.cQ,s,s,s,s,B.wY,s,s,s,1,s,s,!1,"\u2022",s,s,s,new A.aYZ(n),s,!1,s,s,!1,s,!0,s,B.ef,s,s,s,s,s,s,s,s,s,s,s,s,!0,B.aB,s,B.is,s,B.it,s,s),l=n.z,k=l?"Mostra la contrasenya":"Amaga la contrasenya"
 p=A.Cf(s,B.a6T,!1,s,!0,B.D,s,A.T0(),n.x,s,s,s,s,s,2,A.Zc(s,s,s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,"Contrasenya",!0,!0,!1,s,s,s,s,s,s,s,s,A.rc(s,s,s,A.eD(l?B.a2h:B.a2g,p,s,s),s,s,new A.aZ_(n),s,s,s,k),s,s,s,s,s),B.ad,!0,s,!0,s,!1,n.y,B.cQ,s,s,s,s,s,s,s,s,1,s,s,l,"\u2022",s,s,s,new A.aZ0(n),s,!1,s,s,!1,s,!0,s,B.ef,s,s,s,s,s,s,s,s,s,s,s,s,!0,B.aB,s,B.is,s,B.rG,s,s)
 l=n.Q
 k=l?s:n.gaDt()
@@ -56334,7 +56334,7 @@ J(a){var s,r,q,p,o,n=this,m=null,l=t.C.a(A.N(a).c.h(0,A.aG(t.q)))
 l.toString
 s=n.gdC().b8($.lm(),t.wC)
 r=A.bq(a,B.bF,t.l).w
-q=A.aK("Vinito Review",m,m,m,m,A.mD(l.d,26,B.M),m,m)
+q=A.aK("Vinoteta",m,m,m,m,A.mD(l.d,26,B.M),m,m)
 p=A.ajQ(s,new A.aRd(a),new A.aRe(n),new A.aRf(),!0)
 o=n.gFD()
 q=A.b([new A.ek(new A.aP(new A.ae(16,r.r.b+14,16,16),q,m),m),B.agS],t.p)
@@ -57753,7 +57753,7 @@ s.toString
 r=b.b8($.baw(),t.N)
 q=f===B.fS
 p=f===B.jQ
-if(g.b)o="Afegeix Vinito Review a la pantalla d'inici i despr\xe9s activa-ho"
+if(g.b)o="Afegeix Vinoteta a la pantalla d'inici i despr\xe9s activa-ho"
 else o=f===B.qW?"Bloquejades a la configuraci\xf3 del navegador":"Avisa'm quan "+r+" publiqui o comenti"
 e=!e
 n=e&&f!==B.qW&&!q
