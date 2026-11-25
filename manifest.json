@@ -1,7 +1,7 @@
 {
   "name": "Vinoteta",
   "short_name": "Vinoteta",
-  "description": "El nostre diari de vins, només nosaltres dos",
+  "description": "El teu diari de vins, amb qui vulguis",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",
